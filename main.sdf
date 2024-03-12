@@ -1,0 +1,7 @@
+/::
+custom_css: assets/css/custom.css
+::/
+
+# SliDesk discovery 
+
+!include(slides/speaker.sdf)
