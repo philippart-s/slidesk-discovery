@@ -2,6 +2,6 @@
 custom_css: assets/css/custom.css
 ::/
 
-# SliDesk discovery 
+# $$title$$
 
 !include(slides/speaker.sdf)
